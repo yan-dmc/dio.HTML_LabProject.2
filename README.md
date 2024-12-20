@@ -1,3 +1,11 @@
+✨ **Desafio da Plataforma DIO.me** ✨
+
+📌 **Ferramentas Utilizadas:**
+- 🌐 **HTML**  
+
+https://yan-dmc.github.io/dio.HTML_LabProject.2/
+
+
 # Trilha HTML - Dio.me
 ## Módulo 02 - HTML I - Conceitos Básicos
 
