@@ -1,7 +1,8 @@
 ✨ **Desafio da Plataforma DIO.me** ✨
 
 📌 **Ferramentas Utilizadas:**
-- 🌐 **HTML**  
+- 🌐 **HTML**
+- 🎨 **CSS**  
 
 https://yan-dmc.github.io/dio.HTML_LabProject.2/
 
